@@ -28,11 +28,10 @@ https://www.w3schools.com/code/tryit.asp?filename=FUWKJ70INQ98
  
 
 Target  
-
--[ ] HTML Attributes 
--[ ] HTML Comments 
--[ ] HTML Headings 
--[ ] HTML Styles 
+- [ ] HTML Attributes 
+- [ ] HTML Comments 
+- [ ] HTML Headings 
+- [ ] HTML Styles 
 ---
 
 ## PHP
