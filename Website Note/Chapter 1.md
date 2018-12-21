@@ -2,34 +2,6 @@ Makzen
 
 Codepen: @makzan 
 
- 
-
-15 Sep 
-
- 
-
-Website 
-
-ModernWeb.Design/join/2018-web-b 
-
- 
-
-Login 
-
-Danielsou22@icloud.com 
-
-cpttmsou22 
-
- 
-
-Wifi 
-
-In406-09-2018-cm 
-
-Cyberlab9853 
-
- 
-
 Web technology 
 
 有畫面就有 Web technology 
