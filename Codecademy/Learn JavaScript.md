@@ -1,4 +1,6 @@
 # Introduction to JavaScript
+27 Dec
+
 Let's take one more glance at the concepts we just learned:
 
 * Data is printed, or logged, to the console, a panel that displays messages, with console.log().
