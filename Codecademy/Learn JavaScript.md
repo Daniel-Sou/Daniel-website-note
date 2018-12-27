@@ -1,4 +1,4 @@
-# Introduction to JavaScript
+# Review Introduction to JavaScript
 27 Dec
 
 Let's take one more glance at the concepts we just learned:
