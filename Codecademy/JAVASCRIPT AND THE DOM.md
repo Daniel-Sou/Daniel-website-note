@@ -11,10 +11,6 @@ Let's review what we learned:
 - You can create, append, and remove elements by using the `.createElement()`,`.appendChild()` and `.removeChild()` methods respectively
 - The `.onclick` property can add interactivity to a DOM element based on a click event
 
-Picture:
-![845e48821d9decdf48f84d4025c0097c.png](evernotecid://423064E1-7D9D-4304-BB9F-F1EB29FF109D/appyinxiangcom/21310654/ENResource/p810)
-
-
 ## Tweak an element
 
 Change the HTML element
