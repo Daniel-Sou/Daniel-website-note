@@ -42,7 +42,7 @@ To define a function using function expressions:
 
 defining a function expression
 
-To define a function using arrow function notation: alt
+To define a function using arrow function notation:
 
 ![](https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/arrow+notation.svg)
 
@@ -54,5 +54,5 @@ comparing single line and multiline arrow functions
 
 It’s good to be aware of the differences between function expressions, arrow functions, and function declarations. As you program more in JavaScript, you’ll see a wide variety of how these function types are used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1MTc1MTc5LDk3MDI4NjYwN119
+eyJoaXN0b3J5IjpbLTE2ODE1NDExODIsOTcwMjg2NjA3XX0=
 -->
